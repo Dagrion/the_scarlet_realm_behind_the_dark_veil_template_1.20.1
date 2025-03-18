@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "W": {
+      "item": "minecraft:nether_star"
+    },
+    "X": {
+      "item": "the_scarlet_realm_behind_the_dark_veil:filled_vial"
+    },
+    "Y": {
+      "item": "the_scarlet_realm_behind_the_dark_veil:broken_bloody_sword"
+    },
+    "Z": {
+      "item": "the_scarlet_realm_behind_the_dark_veil:bloody_ingot"
+    }
+  },
+    "pattern": [
+      "XZZ",
+      "XY",
+      "W  "
+    ],
+    "result": {
+      "item": "the_scarlet_realm_behind_the_dark_veil:bloody_scythe"
+    }
+}

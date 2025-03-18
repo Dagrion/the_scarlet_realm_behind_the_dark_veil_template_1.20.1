@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "key": {
+    "#": {
+      "item": "minecraft:golden_carrot"
+    },
+    "$": {
+      "item": "minecraft:lapis_lazuli"
+    },
+    "£": {
+      "item": "minecraft:diamond"
+    },
+    "€": {
+      "item": "minecraft:nether_star"
+    }
+  },
+  "pattern": [
+    "  $",
+    " # ",
+    "£ €"
+  ],
+  "result": {
+    "count": 1,
+    "item": "the_scarlet_realm_behind_the_dark_veil:enchanted_carrot"
+  }
+}

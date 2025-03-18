@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "the_scarlet_realm_behind_the_dark_veil:filled_vial"
+    },
+    {
+      "item": "minecraft:netherite_ingot"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "item": "the_scarlet_realm_behind_the_dark_veil:bloody_ingot"
+  }
+}

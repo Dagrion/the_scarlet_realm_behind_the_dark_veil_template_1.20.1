@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "the_scarlet_realm_behind_the_dark_veil:bloody_ingot"
+  },
+  "base": {
+    "item": "minecraft:diamond_helmet"
+  },
+  "result": {
+    "item": "the_scarlet_realm_behind_the_dark_veil:bloody_helmet"
+  },
+  "template": {
+    "item": "the_scarlet_realm_behind_the_dark_veil:filled_vial"
+  }
+}

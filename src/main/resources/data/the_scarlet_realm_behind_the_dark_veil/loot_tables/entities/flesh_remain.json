@@ -1,0 +1,27 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+      "bonus_rolls": 0,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "functions": [
+            {
+              "add": false,
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 1,
+                "min": 0
+              },
+              "function": "minecraft:set_count"
+            }
+          ],
+          "name": "the_scarlet_realm_behind_the_dark_veil:broken_bloody_sword"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "the-scarlet-realm-behind-the-dark-veil:entities/flesh_remain"
+}

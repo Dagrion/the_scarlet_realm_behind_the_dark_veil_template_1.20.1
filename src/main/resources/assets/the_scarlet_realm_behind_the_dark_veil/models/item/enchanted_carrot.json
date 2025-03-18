@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "the_scarlet_realm_behind_the_dark_veil:item/enchanted_carrot"
+  }
+}

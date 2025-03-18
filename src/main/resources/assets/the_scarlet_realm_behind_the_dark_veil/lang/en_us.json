@@ -1,0 +1,36 @@
+{
+  "item.the_scarlet_realm_behind_the_dark_veil.netherite_nugget": "Netherite Nugget",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_ingot": "Bloody Ingot",
+  "item.the_scarlet_realm_behind_the_dark_veil.moon_dust": "Moon Dust",
+  "item.the_scarlet_realm_behind_the_dark_veil.blood_moon_dust": "Blood Moon Dust",
+  "item.the_scarlet_realm_behind_the_dark_veil.flesh_pile": "Flesh Pile",
+
+
+  "item.the_scarlet_realm_behind_the_dark_veil.empty_vial": "Empty Vial",
+  "item.the_scarlet_realm_behind_the_dark_veil.filled_vial": "Filled Vial",
+
+  "item.the_scarlet_realm_behind_the_dark_veil.enchanted_carrot": "Enchanted Carrot",
+
+  "item.the_scarlet_realm_behind_the_dark_veil.stinger": "Stinger",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_sword": "Bloody Sword",
+  "item.the_scarlet_realm_behind_the_dark_veil.broken_bloody_sword": "Broken Bloody Sword",
+  "item.the_scarlet_realm_behind_the_dark_veil.true_bloody_sword": "True Bloody Sword",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_scythe": "Bloody Scythe",
+  "item.the_scarlet_realm_behind_the_dark_veil.half_moon": "Half Moon",
+
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_helmet": "Bloody Helmet",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_chestplate": "Bloody Chestplate",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_leggings": "Bloody Leggings",
+  "item.the_scarlet_realm_behind_the_dark_veil.bloody_boots": "Bloody Boots",
+
+  "item.the_scarlet_realm_behind_the_dark_veil.blood_moon": "Blood Moon",
+
+  "block.the_scarlet_realm_behind_the_dark_veil.bloody_block": "Bloody Block",
+
+  "effect.the_scarlet_realm_behind_the_dark_veil.bloodlust": "Bloodlust",
+  "effect.the_scarlet_realm_behind_the_dark_veil.bloodloss": "Bloodloss",
+
+  "entity.the_scarlet_realm_behind_the_dark_veil.flesh_remain": "Flesh Remain",
+
+  "itemgroup.the_scarlet_realm_behind_the_dark_veil.the_scarlet_realm_behind_the_dark_veil_items": "SR_BDV"
+}

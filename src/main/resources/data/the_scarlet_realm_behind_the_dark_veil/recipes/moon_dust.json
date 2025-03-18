@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:end_stone"
+    }
+  ],
+  "result": {
+    "count": 4,
+    "item": "the_scarlet_realm_behind_the_dark_veil:moon_dust"
+  }
+}

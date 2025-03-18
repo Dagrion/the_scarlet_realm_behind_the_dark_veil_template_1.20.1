@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "the_scarlet_realm_behind_the_dark_veil:moon_dust"
+    },
+    {
+      "item": "the_scarlet_realm_behind_the_dark_veil:moon_dust"
+    },
+    {
+      "item": "the_scarlet_realm_behind_the_dark_veil:moon_dust"
+    },
+    {
+      "item": "the_scarlet_realm_behind_the_dark_veil:filled_vial"
+    }
+  ],
+  "result": {
+    "count": 3,
+    "item": "the_scarlet_realm_behind_the_dark_veil:blood_moon_dust"
+  }
+}

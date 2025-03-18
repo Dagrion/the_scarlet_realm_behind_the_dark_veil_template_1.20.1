@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": {
+      "item": "the_scarlet_realm_behind_the_dark_veil:netherite_nugget"
+    }
+  },
+  "pattern": [
+    " #",
+    "# "
+  ],
+  "result": {
+    "count": 1,
+    "item": "the_scarlet_realm_behind_the_dark_veil:stinger"
+  }
+}
